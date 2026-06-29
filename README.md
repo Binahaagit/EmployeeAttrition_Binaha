@@ -115,14 +115,14 @@ The analysis focused on understanding the factors affecting employee attrition.
 
 Some of the visualizations include:
 
-- 📌 Attrition Rate by Department
-- 📌 Attrition Rate by Job Role
-- 📌 Monthly Income vs Attrition
-- 📌 Work-Life Balance vs Attrition
-- 📌 Years at Company vs Attrition
-- 📌 Confusion Matrix
-- 📌 Top Feature Importance
-- 📌 ROC Curve Comparison
+-  Attrition Rate by Department
+-  Attrition Rate by Job Role
+-  Monthly Income vs Attrition
+-  Work-Life Balance vs Attrition
+-  Years at Company vs Attrition
+-  Confusion Matrix
+-  Top Feature Importance
+-  ROC Curve Comparison
 
 ---
 
