@@ -220,5 +220,3 @@ Some possible enhancements include:
 
 
 ---
-
-## ⭐ If you found this project useful, consider giving this repository a star!
